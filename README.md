@@ -13,7 +13,7 @@ Play Leetcode with different Programming language
 |0485|[Max-consecutive-ones](https://leetcode-cn.com/problems/max-consecutive-ones/)|Easy|[Python](https://github.com/wwyihao/Leetcode/blob/master/src/max-consecutive-ones/max-consecutive-ones.py)|Js |
 |0520|[Detect-capital](https://leetcode-cn.com/problems/detect-capital/)|Easy|[Python](https://github.com/wwyihao/Leetcode/blob/master/src/detect-capital/detect-capital.py)|Js |
 |0657|[Robot-return-to-origin](https://leetcode-cn.com/problems/robot-return-to-origin/)|Easy|[Python](https://github.com/wwyihao/Leetcode/blob/master/src/robot-return-to-origin/robot-return-to-origin.py)|Js |
-|0917|Reverse Only Letters|Easy|[Python](https://github.com/wwyihao/leetcode/blob/master/src/reverse-only-letters/reverse-only-letters.py)|Js |
-|0977|Squares-of-a-sorted-array|[Python](https://github.com/wwyihao/leetcode/blob/master/src/squares-of-a-sorted-array/squares-of-a-sorted-array.py)|Js |
+|0917|[Reverse Only Letters](https://leetcode-cn.com/problems/reverse-only-letters)|Easy|[Python](https://github.com/wwyihao/leetcode/blob/master/src/reverse-only-letters/reverse-only-letters.py)|Js |
+|0977|[Squares-of-a-sorted-array](https://leetcode-cn.com/problems/squares-of-a-sorted-array)|Easy|[Python](https://github.com/wwyihao/leetcode/blob/master/src/squares-of-a-sorted-array/squares-of-a-sorted-array.py)|Js |
 
 
